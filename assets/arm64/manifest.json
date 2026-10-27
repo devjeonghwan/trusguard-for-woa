@@ -1,0 +1,20 @@
+{
+  "files": [
+    {
+      "name": "tg-woa-probe.exe",
+      "sha256": "5C3E016C58BFE83C7761395AEB3AE6DA851E83A6BFE604360E39C51B4749EA9E"
+    },
+    {
+      "name": "tg-woa-name.exe",
+      "sha256": "95E82A719A5AA1BE89F91D35F3D4BAEFB67B16894D7DB52EDB6548EF10F01EFC"
+    },
+    {
+      "name": "tg-woa-device.exe",
+      "sha256": "40F2D4BFC241D13B71A87348DFA515C09FC62567DBA899AA208FDB46B4A4D4E9"
+    },
+    {
+      "name": "tg-woa-sfx.exe",
+      "sha256": "89E68EC8133D976E37E225080A775CD7777A2D32B0C4622F66F2620DBE19269B"
+    }
+  ]
+}

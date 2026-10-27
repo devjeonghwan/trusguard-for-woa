@@ -1,0 +1,16 @@
+target/
+analysis/
+build/
+port/
+dist/
+*.exe
+!assets/arm64/tg-woa-*.exe
+*.apk
+*.key
+*.crt
+*.pfx
+*.p12
+*.log
+*.obj
+*.pdb
+*.ilk

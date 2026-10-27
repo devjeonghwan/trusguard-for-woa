@@ -1,0 +1,11 @@
+* text=auto
+*.ps1 text eol=crlf
+*.cmd text eol=crlf
+*.cpp text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.exe binary
+*.sys binary
+*.inf binary
+*.cat binary
+*.zip binary
